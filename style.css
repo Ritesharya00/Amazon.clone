@@ -1,0 +1,133 @@
+
+/* CSS for Navbar of Amazon clone */
+
+ *{
+    transition: all 0.3s ease;
+    margin: 0;
+    padding: 0;
+    color: rgb(255, 255, 255);
+}
+#navbar{
+    background-color: #0f1111;
+    height: 40px;
+}
+button{
+    background-color: #f08804;
+}
+button:hover{
+
+    background-color: #4c18c6;
+    color: #f08804;
+}
+#logo{
+    color: #f08804;
+    margin: 5px;
+    padding: 0;
+     text-size-adjust: 25px; 
+     font-size: 25px;
+    text-align: left;
+}
+.gap{
+    margin: 0 6vw;
+ margin-right: 100px; }
+.abcd{
+    display: inline-block;
+}
+input{
+    color: black;
+}
+p{
+    color: black
+}  
+
+.contentbox{
+    display: inline-block;
+    background-color: rgba(19, 19, 191, 0.75);
+    color: white;
+    height: 100px;
+    width: 100px;
+    margin: 10px;
+    padding: 10px;
+    
+}
+body{
+    background-image: url("bg.jpg");
+    background-size: cover;
+}
+div{
+    /* transition-property: all; */
+    /* transition-duration: 0.5s; */
+    /* transition-timing-function: linear; */
+    
+}
+div:hover{
+    background-color: rgb(106, 14, 225);
+    color: rgb(29, 197, 119);
+    font-size: 15px;
+}
+    
+#Ritesh{
+    background-image: url("photo.jpg");
+    background-size: cover;
+    /* transition-timing-function: cubic-bezier(0.175, 0.885, 0.32, 1.275); */
+   
+}
+#Dharmu{
+    background-image: url("dharmu.jpg");
+    background-size: cover;
+}
+#Karan{
+    background-image: url("karan.jpg");
+    background-size: cover;
+}
+#Rohit{
+    background-image: url("rohit.jpg");
+    background-size: cover;
+}
+#Rahul{
+    background-image: url("rahul.jpg");
+    background-size: cover;
+}
+#Jassi{
+    background-image: url("jassi.jpg");
+    background-size: cover;
+}
+#Suraj{
+    background-image: url("maksudann.jpg");
+    background-size: cover;
+}
+#Maksudann{
+    background-image: url("suraj.jpg");
+    background-size: cover;
+}
+#Aman{
+    background-image: url("aman.jpg");
+    background-size: cover;
+}
+#Vishal{
+    background-image: url("vishal.jpg");
+    background-size: cover;
+}
+#Saurav{
+    background-image: url("saurav.jpg");
+    background-size: cover;
+}
+
+#Shahmir{
+    background-image: url("shahmir.jpg");
+    background-size: cover;
+}
+#Akash{
+    background-image: url("akash.jpg");
+    background-size: cover;
+}
+#Abhijit{
+    background-image: url("abhijit.jpg");
+    background-size: cover;
+}
+
+
+
+
+
+
